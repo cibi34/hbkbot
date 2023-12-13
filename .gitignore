@@ -159,6 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-
-docs_to_db/
-models/
+web/docs_to_db/
